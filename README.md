@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Elgin! 👋
+
+Majoring in CS & Psychology, minoring in AI Development.
 
 <!--
 **Elgin5/Elgin5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
